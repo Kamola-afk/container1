@@ -1,0 +1,255 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    list-style: none;
+    text-decoration: none;
+}
+body {
+    background-color: black;
+}
+
+.container {
+    display: flex;
+    gap: 50px;
+    background-color: white;
+    justify-content: space-between;
+    width: 1000px;
+    padding-left: 70px;
+    padding-top: 40px;
+}
+
+.kottasi {
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+}
+
+.cl1 {
+    margin: 0% auto;
+    border-radius: 10px;
+    background-color: purple;
+    width: 200px;
+    height: 200px;
+    flex-wrap: wrap;
+    display: flex;
+    gap: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-bottom: 30px;
+}
+
+.child1 {
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 35px;
+    height: 35px;
+    background-color: orange;
+}
+
+.child2 {
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 35px;
+    height: 35px;
+    background-color: orange;
+}
+
+.child3 {
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 35px;
+    height: 35px;
+    background-color: orange;
+}
+
+.cl2 {
+    margin: 0% auto;
+    border-radius: 10px;
+    background-color: purple;
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: start;
+    flex-direction: column;
+    gap: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-bottom: 30px;
+}
+
+.child4 {
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    background-color: orange;
+}
+
+.child5 {
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    background-color: orange;
+}
+
+.child6 {
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    background-color: orange;
+}
+
+.cl3 {
+    margin: 0% auto;
+    border-radius: 10px;
+    background-color: purple;
+    width: 200px;
+    height: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-bottom: 30px;
+}
+
+.child7 {
+    border-radius: 5px;
+    display: flex;
+    width: 35px;
+    height: 35px;
+    background-color: orange;
+}
+
+.child8 {
+    border-radius: 5px;
+    display: flex;
+    width: 35px;
+    height: 35px;
+    background-color: orange;
+}
+
+.child9 {
+    border-radius: 5px;
+    display: flex;
+    width: 35px;
+    height: 35px;
+    background-color: orange;
+}
+
+.child10 {
+    border-radius: 5px;
+    display: flex;
+    width: 35px;
+    height: 35px;
+    background-color: orange;
+}
+
+.child11 {
+    border-radius: 5px;
+    display: flex;
+    justify-content: start;
+    flex-wrap: wrap;
+    margin-bottom: 100px;
+    width: 35px;
+    height: 35px;
+    background-color: orange;
+}
+
+.cl4 {
+    margin: 0% auto;
+    border-radius: 10px;
+    background-color: purple;
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-bottom: 30px;
+}
+
+.child12 {
+    border-radius: 5px;
+    display: flex;
+    justify-content: start;
+    width: 35px;
+    height: 35px;
+    background-color: orange;
+}
+
+.child13 {
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    width: 35px;
+    height: 35px;
+    background-color: orange;
+}
+
+.child14 {
+    border-radius: 5px;
+    margin-right: 10px;
+    display: flex;
+    justify-content: end;
+    width: 35px;
+    height: 35px;
+    background-color: orange;
+
+}
+.cl5 {
+    margin: 0% auto;
+    border-radius: 10px;
+    background-color: purple;
+    width: 200px;
+    height: 200px;
+    flex-wrap: wrap;
+    display: flex ;
+    gap: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-bottom: 30px;
+}
+
+.child15 {
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 35px;
+    height: 35px;
+    background-color: orange;
+}
+
+.child16 {
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 35px;
+    height: 35px;
+    background-color: orange;
+}
+
+.child17 {
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 35px;
+    height: 35px;
+    background-color: orange;
+}
